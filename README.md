@@ -1,2 +1,2 @@
-# lokkli_rep
+# Java mvc
 Simple MVC example
